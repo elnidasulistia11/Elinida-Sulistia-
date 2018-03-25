@@ -1,0 +1,2 @@
+# Elinida-Sulistia-
+Tugas Phython 
